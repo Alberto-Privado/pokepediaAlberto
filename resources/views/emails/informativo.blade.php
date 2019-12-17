@@ -1,0 +1,1 @@
+<h1>Hola mu wenas xd  {{$name}}</h1>
